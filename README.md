@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I’m a current undergrad cs student at Arizona State University.
+#### I’m a current undergrad ds & cs student at Arizona State University.
 <!--
 **winexli/winexli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
