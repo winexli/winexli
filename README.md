@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### I’m a current undergrad ds & cs student at Arizona State University.
+#### I’m a current undergrad ds & cs student based in San Francisco Bay Area
+#### Contact: wine@berkeley.edu
 <!--
 **winexli/winexli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
